@@ -2,4 +2,4 @@
 
 日本語もはいりますか。
 
-link to [Readmi.md](Readme.md)
+link to [Readme.md](Readme.md)
